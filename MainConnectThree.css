@@ -4,26 +4,26 @@
 */
 
 #game_panel{
-    align-self: center;
-    width: 800px;
-    height: 800px;
+    margin-left: 100px;
+    width: 400px;
+    height: 400px;
 }
 
 .row{
     /*
-    200px square per element
+    100px square per element
     */
     width: auto;
-    height: 200px;
+    height: 100px;
     padding: 0
 }
 .E{
     float: left;
-    width: 180px;
-    height: 180px;
+    width: 80px;
+    height: 80px;
     margin: 10px;
     
-    color: red;
+    background-color: red;
     border: solid black 2px;
 }
 
