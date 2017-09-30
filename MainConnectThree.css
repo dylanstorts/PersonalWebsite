@@ -1,0 +1,30 @@
+/* 
+    Created on : Sep 30, 2017, 6:10:16 PM
+    Author     : Dylan Storts
+*/
+
+#game_panel{
+    align-self: center;
+    width: 800px;
+    height: 800px;
+}
+
+.row{
+    /*
+    200px square per element
+    */
+    width: auto;
+    height: 200px;
+    padding: 0
+}
+.E{
+    float: left;
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+    
+    color: red;
+    border: solid black 2px;
+}
+
+
